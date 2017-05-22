@@ -4,6 +4,6 @@
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="BitMiracle.Docotic.Pdf" Version="5.2.8370-dev" />
+    <PackageReference Include="BitMiracle.Docotic.Pdf" Version="5.2.8382-dev" />
   </ItemGroup>
 </Project>
