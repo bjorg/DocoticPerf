@@ -5,10 +5,10 @@ Simple application to test Docotic.Pdf library.
 
 Sample PDF files are located in the `pdfs` folder.
 
-Before running tests, make sure to define `PDF_LICENSE_KEY` environment variable with the Docotic.Pdf license key.
+Before running tests, make sure to set `PDF_LICENSE_KEY` environment variable to the Docotic.Pdf license key.
 
-To run test for PDFs causing errors:
+To run tests for PDFs that cause errors:
 `dotnet run pdfs/error*`
 
-To Run test for PDFs that are slow:
+To run tests for PDFs that are slow:
 `dotnet run pdfs/slow*`
